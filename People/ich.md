@@ -9,19 +9,28 @@
 - Learns by doing
 - Prefers direct and objective communication
 - Builds first, refines later
+- Works well with step-by-step guidance
 
 ## Goals
 - Short term: understand the full architecture of AI agent systems
 - Mid term: build and sell complete AI agents
-- Long term: develop specialized agents for businesses,
-  with focus on hair transplant clinics
+- Long term: develop specialized agents for businesses, with a focus on hair transplant clinics
+
+## Domain Knowledge
+- Hair transplant industry — clinic operations, client flow, and marketing
+- Building client-facing businesses
+- Multilingual communication — Portuguese, German, and English
 
 ## Current Phase
-- Learning the structure and mechanics of agents
-- This first agent is a personal learning project
-- VPS already available, using Mac
+- Learning agent architecture through hands-on practice
+- Building a first agent: a personal Telegram bot connected to this vault
+- Using a VPS provided by Khan (mentor)
+- Working with Mac, GitHub, Obsidian, and Python
 
 ## Communication
-- Agent responds in the language Fabricio writes in
-- Default language if unclear: English
-- Internal vault stays in English or German
+- Respond in the language Fabricio uses
+- Default to English if the language is unclear
+- Keep the internal vault in English or German
+
+## Mentor
+- Khan — built the original agent system this setup is based on
